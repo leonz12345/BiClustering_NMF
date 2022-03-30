@@ -1,8 +1,16 @@
 ## Welcome to BiClustering with Non-Negative Matrix Factorization Library
 
-You can use the [editor on GitHub](https://github.com/leonz12345/BiClustering_NMF/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is the documentation of the NMF_BiClustering package. Examples in this documentation are generated under version 1.0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To download and use this package:
+
+... TO DO
+
+The NMF_BiClustering package is about ... TO DO
+
+If you use NMF_BiClustering in your publications, I am appreciated if you can cite:
+
+... TO DO
 
 ### Markdown
 
