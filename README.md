@@ -1,6 +1,6 @@
 ## Welcome to BiClustering with Non-Negative Matrix Factorization Library
 
-This is the documentation of the NMF_BiClustering package. Examples in this documentation are generated under version 1.0. Webpage version of the documentation can be viewed [Here](https://leon-zhang.com/BiClustering_NMF/)
+This is the documentation of the NMF_BiClustering package. Examples in this documentation are generated under version 1.0. Webpage version of the documentation can be viewed [here](https://leon-zhang.com/BiClustering_NMF/).
 
 To download and use this package:
 
