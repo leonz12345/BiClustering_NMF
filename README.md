@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BiClustering with Non-Negative Matrix Factorization Library
 
 You can use the [editor on GitHub](https://github.com/leonz12345/BiClustering_NMF/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
