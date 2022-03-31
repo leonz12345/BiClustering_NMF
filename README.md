@@ -4,7 +4,7 @@ This is the documentation of the NMF_BiClustering package. Examples in this docu
 
 To download and use this package:
 
-... TO DO
+... TO DO Test
 
 The NMF_BiClustering package is about ... TO DO
 
