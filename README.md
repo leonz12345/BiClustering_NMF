@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Pix
 
 1. Numbered
 2. List
